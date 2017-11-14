@@ -8,6 +8,12 @@ __Bye-Bye, Mr. Middleman__
 
 ---
 
+## Repositories (parts of crowdsale platform)
+
+* [Smart contract](https://github.com/Cryptaur/cryptaur-contract)
+* [Payment server](https://github.com/Cryptaur/cryptaur-payment-server)
+* [Web server](https://github.com/Cryptaur/cryptaur-web-server)
+
 ## ABOUT
 
 We are a spirited FinTech startup on a mission to disrupt the traditional commercial channels through the utilization of blockchain technology. Specifically, Cryptaur aims to create a decentralized ecosystem with a focus on establishing a fully transparent platform for consumers. This transparency is implemented via a blockchain technology, that of which allows for users to maintain their original payment habits, avoid the need to learn about cryptocurrency complexities, and dramatically shallows the steep learning curve associated with this technology.
